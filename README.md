@@ -1,3 +1,4 @@
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Sankalp Dwivedi</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697673600&v=beta&t=-MzJtWmmN0Rc-J-NAqb7rwLPHdX3pP3cYm9TsQf4UaQ"
